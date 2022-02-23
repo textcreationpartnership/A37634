@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The answer of both Houses of Parliament presented to His Majestie at York the ninth of May concerning Sir Iohn Hothams refusal to give His Maiestie entrance into his town of Hull : with His Majesties reply thereunto.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37634</idno>
+            <idno type="STC">Wing E1219A</idno>
+            <idno type="STC">ESTC R29999</idno>
+            <idno type="EEBO-CITATION">11231049</idno>
+            <idno type="OCLC">ocm 11231049</idno>
+            <idno type="VID">46980</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37634)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46980)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1440:62)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The answer of both Houses of Parliament presented to His Majestie at York the ninth of May concerning Sir Iohn Hothams refusal to give His Maiestie entrance into his town of Hull : with His Majesties reply thereunto.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Barker ... and by the assignes of John Bill,</publisher>
+                  <pubPlace>York :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hotham, John, --  Sir, d. 1645 Jan. 2.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46980:1"/>
+            <pb facs="tcp:46980:1"/>
+            <p>THE ANSWER OF Both Houſes of Parliament, Preſented to His Majeſtie at YORK, the ninth of May.</p>
+            <p>Concerning Sir <hi>Iohn Hothams</hi> Refuſall to give His Maieſtie entrance into His Town of <hi>Hull.</hi>
+            </p>
+            <p>VVith His Majeſties REPLY thereunto.</p>
+            <figure>
+               <figDesc>Tudor rose</figDesc>
+            </figure>
+            <figure>
+               <figDesc>Scottish thistle</figDesc>
+            </figure>
+            <figure>
+               <figDesc>French fleur-de-lis</figDesc>
+            </figure>
+            <figure>
+               <figDesc>depiction of Irish harp</figDesc>
+            </figure>
+            <p>YORK: Printed by ROBERT BARKER, Printer to the Kings moſt Excellent Majeſtie: And by the Aſſignes of JOHN BILL.</p>
+            <p>1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:46980:2"/>
+            <pb n="1" facs="tcp:46980:2"/>
+            <head>¶ The moſt humble Anſwer of the Lords and Commons in Parliament, to two Meſſages from His Sacred MAJESTIE, Concerning Sir <hi>Iohn Hothams</hi> Refuſall to give Him entrance into the Town of HULL.</head>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Majeſtie may be pleaſed to underſtand, That we, your great Councell, finding ma<g ref="char:EOLhyphen"/>nifold Evidences of the wick<g ref="char:EOLhyphen"/>ed Counſels and Practiſes of ſome in neer Truſt and Authority about you, to put the Kingdom into a Combuſtion, by drawing your Majeſtie into places of Strength, remote from your Parliament, and by exciting your People to Commo<g ref="char:EOLhyphen"/>tions, under pretence of ſerving your Majeſtie againſt your Parliament, Leſt this Malignant Party, by the advantage
+<pb n="2" facs="tcp:46980:3"/>
+of the Town and Magazine of <hi>Hull,</hi> ſhould be enabled to go thorow, with their miſchievous intentions, Did (in diſcharge of the great Truſt that lies upon us, and by that Power, which in Caſes of this Nature, recides in us) command the Town of <hi>Hull</hi> to be ſecured, by a Garriſon of the adjoyning Train Bands, under the government of Sir <hi>Iohn Ho<g ref="char:EOLhyphen"/>tham,</hi> requiring him to keep the ſame for the ſervice of your Majeſty and the King<g ref="char:EOLhyphen"/>dom; wherein we have done nothing contrary to your Royall Soveraignty in that Town, or Legall Propriety in the Magazine.</p>
+            <p>Upon conſideration of Sir <hi>Iohn Ho<g ref="char:EOLhyphen"/>thams</hi> proceedings at your Majeſties be<g ref="char:EOLhyphen"/>ing there, wee have, upon very good grounds, adjudged, That he could not diſcharge the Truſt upon which, nor make good the end for which he was pla<g ref="char:EOLhyphen"/>ced in the Guard of that Town, and Ma<g ref="char:EOLhyphen"/>gazine, if he had let in your Majeſtie, with ſuch Councellors and Company as then were about You.</p>
+            <p>
+               <pb n="3" facs="tcp:46980:3"/>
+Wherefore, upon full Reſolution of both Houſes, we have declared Sir <hi>Iohn Hotham</hi> to be cleer from that odious Crime of Treaſon; And have Avowed, That he hath therein done nothing but in Obe<g ref="char:EOLhyphen"/>dience to the Commands of both Houſes of Parliament; Aſſuring our ſelues, That upon mature deliberation, your Majeſtie will not interpret his Obedience to ſuch Authority, to be an Affront to your Ma<g ref="char:EOLhyphen"/>jeſtie, or to be of that nature, as to re<g ref="char:EOLhyphen"/>quire any Juſtice to be done upon him, or ſatisfaction to be made to your Maje<g ref="char:EOLhyphen"/>ſtie: But that you will ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e juſt cauſe of joyning with your Parliament, in preſer<g ref="char:EOLhyphen"/>ving and ſecuring the Peace of the King<g ref="char:EOLhyphen"/>dom, ſuppreſſing this wicked and Malig<g ref="char:EOLhyphen"/>nant party, who by falſe colours and pretenſions of maintaining your Maie<g ref="char:EOLhyphen"/>ſties Prerogative againſt the Parliament, (wherein they fully agree with the Rebels in <hi>Ireland)</hi> have been the cauſes of all our Diſtempers and Dangers.</p>
+            <p>For prevention whereof, we know no better Remedy, then ſetling the <hi>Militia</hi>
+               <pb n="4" facs="tcp:46980:4"/>
+of the Kingdom, according to the Bill which we have ſent your Ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſtie, with<g ref="char:EOLhyphen"/>out any intention of deſerting or decli<g ref="char:EOLhyphen"/>ning the validity or obſervance of that Ordinance which paſt both Houſes, up<g ref="char:EOLhyphen"/>on your Maieſties former refuſall, But we ſtill hold that Ordinance to be effe<g ref="char:EOLhyphen"/>ctuall by the Laws of this Kingdom.</p>
+            <p>And we ſhall be exceeding glad, If your Maieſtie, by approving theſe our Juſt, Dutifull, and Neceſſary Proceed<g ref="char:EOLhyphen"/>ings, ſhall be pleaſed to entertain ſuch Councell, as wee aſſure our ſelves (by Gods bleſſing) will prove very advanta<g ref="char:EOLhyphen"/>gious for the Honour and Greatneſſe of your Maieſtie, the ſafety and peace of your People, amongſt which, we know none more likely to produce ſuch good effects, then a Declaration from your Maieſtie, of Your purpoſe to lay aſide all thoughts of going into <hi>Ireland;</hi> And to make a ſpeedy return into theſe parts, to be neer your Parliament. Which, as it is our moſt humble Deſire, and earneſt Pe<g ref="char:EOLhyphen"/>tition, ſo ſhall it be ſeconded with our
+<pb n="5" facs="tcp:46980:4"/>
+moſt dutifull care for the ſafety of your Royall Perſon, and conſtant Prayers<g ref="char:punc">▪</g> That it may prove Honourable and Succeſsfull in the happineſſe of your Maieſtie and all your Kingdoms.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:46980:5"/>
+            <pb n="7" facs="tcp:46980:5"/>
+            <opener>
+               <dateline>
+                  <date>10. Maii. 1642.</date>
+               </dateline>
+            </opener>
+            <head>His Majeſties Anſwer to the Petition of both Houſes of Parliament.</head>
+            <head type="sub">Preſented to Him the ninth of this Moneth, by the Lord Ed. Howard, Lord Fairfax, Sir Hugh Cholmley, Sir Ph. Stapleton, and Sir H. Cholmley.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Majeſtie was in good hope, that the Reaſon why you ſo long defer'd your An<g ref="char:EOLhyphen"/>ſwer to His Meſſages concerning <hi>Hull,</hi> was, That you might the better give him ſatiſfa<g ref="char:EOLhyphen"/>ction therein, which now adds the
+<pb n="8" facs="tcp:46980:6"/>
+more to His aſtoniſhment, finding this Anſwer (after ſo long adviſe<g ref="char:EOLhyphen"/>ment) to be of that nature, which cannot but rather increaſe, then di<g ref="char:EOLhyphen"/>miniſh the preſent Diſtractions, if conſtantly adhered unto by the Par<g ref="char:EOLhyphen"/>liament: Was it not too much, That His Majeſties Town of <hi>Hull</hi> had a Garriſon put into it, to the great charge of the Countrey and inconvenience to the poor Inhabi<g ref="char:EOLhyphen"/>tants, without His Majeſties con<g ref="char:EOLhyphen"/>ſent and approbation, under colour, at that time, of forraign Invaſion, and apprehenſions of the Popiſh party, but now the Reaſons there<g ref="char:EOLhyphen"/>of muſt be enlarged with a ſcandall to His Majeſtie and His faithfull Servants, onely to bring in the more ſpecious pretence for the avow<g ref="char:EOLhyphen"/>ing of Sir <hi>John Hothams</hi> treaſon<g ref="char:EOLhyphen"/>able inſolency?</p>
+            <p>His Majeſtie hath often heard of the great truſt, that by God and
+<pb n="9" facs="tcp:46980:6"/>
+Mans Law is committed to the King, for the defence and ſafety of His People, but as yet hath never underſtood what truſt or power is committed to either, or both Hou<g ref="char:EOLhyphen"/>ſes of Parliament, without the King; they being ſummoned to counſell and adviſe the King: but by what Law or Authority they poſſeſſe themſelves of His Majeſties proper Right and Inheritance, he is confident, that as they have not, ſo they cannot ſhew.</p>
+            <p>His Majeſtie, hitherto, hath not given the leaſt interruption to pub<g ref="char:EOLhyphen"/>lique Iuſtice; But you, rather then ſuffer one of your Members to come ſo much as to a legall triall for the higheſt crime, will make uſe of an Order of Parliament to countenance Treaſon, by declaring him free from that guilt which all former ages never accounted other; And that, without ſo much
+<pb n="10" facs="tcp:46980:7"/>
+as enquiring the opinion of the Iudges; For His Majeſtie is confi<g ref="char:EOLhyphen"/>dent, That you would have men<g ref="char:EOLhyphen"/>tioned their opinion, if you had aſked the ſame.</p>
+            <p>Therefore His Majeſtie expects, That upon further and better con<g ref="char:EOLhyphen"/>ſideration, of the great and neceſ<g ref="char:EOLhyphen"/>ſary conſequence of the buſineſſe of <hi>Hull,</hi> and ſeriouſly weighing how much this doth concern the peace and quiet of the Kingdom, you will (without further inſtance from His Majeſtie) give him full and ſpeedy Iuſtice againſt Sir <hi>John Hotham;</hi> and He leaves all His good People to think what hope of Iustice there is left for them, when you ſhall refuſe or delay to give your own Soveraign ſatiſfaction: And, as His Majeſty hath already ſaid, Till this be done, he will intend no buſi<g ref="char:EOLhyphen"/>neſſe whatſoever, other then that of <hi>Ireland.</hi>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:46980:7"/>
+And His Majeſtie likewiſe ex<g ref="char:EOLhyphen"/>pects, That in the way you have expreſt in this your Anſwer, you will not put the <hi>Militia</hi> in execution, untill you can ſhew him by what Law you have authority to do the ſame without His conſent, or if you do, Hee is confident, that He ſhall finde much more Obedience, according to Law, then you againſt Law; and His Ma<g ref="char:EOLhyphen"/>jeſtie ſhall eſteem all thoſe that ſhall obey you therein, to be Di<g ref="char:EOLhyphen"/>ſturbers of the Peace of the King<g ref="char:EOLhyphen"/>dom, and in due time call them le<g ref="char:EOLhyphen"/>gally to a ſtrict accompt for the ſame.</p>
+            <p>As for <hi>Ireland,</hi> His Majeſtie re<g ref="char:EOLhyphen"/>fers you to His former Anſwer.</p>
+            <p>And laſtly, Concerning His Re<g ref="char:EOLhyphen"/>turn, He never heard, That the ſlandering of a Kings Govern<g ref="char:EOLhyphen"/>ment, and His faithfull Servants, the refuſing of Him Iuſtice in a
+<pb n="12" facs="tcp:46980:8"/>
+caſe of Treaſon, and the ſeeking to take away His undoubted and le<g ref="char:EOLhyphen"/>gall Authority, under the pretence of putting the Kingdom into a poſture of Defence, were Argu<g ref="char:EOLhyphen"/>ments to induce a King to come neer or hearken to His Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46980:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
